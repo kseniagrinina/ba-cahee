@@ -96,6 +96,17 @@
     align-items: center;
 }
 
+.gallery__images {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.gallery__img {
+    width: 90%;
+}
+
 .container__subscribe {
     flex-direction: column;
     padding: 100px 0 100px 0;
