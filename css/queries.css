@@ -204,6 +204,10 @@
     margin-bottom: 10px;
 }
 
+.contact__textarea {
+    height: 7rem;
+}
+
 .contact__header {
     margin-bottom: 30px;
 }
