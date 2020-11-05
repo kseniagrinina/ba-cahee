@@ -147,8 +147,14 @@
 }
 
 .gallery__images {
-    grid-gap: 10px;
-    margin-bottom: 30px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.gallery__img {
+    width: 90%;
 }
 
 .subscribe {
